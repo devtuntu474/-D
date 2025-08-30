@@ -139,7 +139,7 @@ This project uses open-source libraries including:
   <a href="https://t.me/+LwD1jbJ4qmRlYjJk">
     <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb4B338E50Uk2hA7r21U">
+  <a href="https://whatsapp.com/channel/0029VbBGQu4C6ZvnH201CL0o">
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
