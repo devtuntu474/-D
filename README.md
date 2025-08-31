@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://youtube.com/@redtech">
-    <img src="https://files.catbox.moe/pyugsk.jpg" alt="REDTECHXMD" height="300">
+    <img src="https://files.catbox.moe/urvr8a.jpg" alt="REDTECHXMD" height="300">
   </a>
 </div>
 
