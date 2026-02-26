@@ -4,13 +4,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=REDTECHXMD;Multi+Device+Whatsapp+Bot;Coded+By+DEVTUNTU" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=REDTECHXMD;Multi+Device+Whatsapp+Bot;Coded+By+DEVTUNTU" al="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://youtube.com/@redtech">
-    <img src="https://files.catbox.moe/urvr8a.jpg" alt="REDTECHXMD" height="300">
+    <img src="https://files.catbox.moe/hrmvh2.jpeg" alt="REDTECHXMD" height="300">
   </a>
 </div>
 
@@ -147,3 +147,7 @@ This project uses open-source libraries including:
 ---
 
 > 💡 Feel free to contribute, report issues, or suggest new features. Let's build something awesome together!
+> ALL THANKS TOO STANY TECH ™ ONE LOVE FAMILY
+
+CONTACT 255742852285
+CONTACT STANY 255787069580
